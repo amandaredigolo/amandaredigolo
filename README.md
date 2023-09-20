@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Amanda Redigolo" />
+  <img src="https://raw.githubusercontent.com/amandaredigolo/amandaredigolo/master/name.svg" alt="Amanda Redigolo" />
 </h1>
 - 👋 Olá, meu nome é Amanda Redigolo
 - 👀 Sou professora na escola estadual Severino Tagliari
